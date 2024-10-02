@@ -29,10 +29,13 @@ __________.__              .__         .__       .__
 
 </br>
 
-<img src="./utils/chat.gif">
+<p align="center">
+    <a href="https://discord.com/oauth2/authorize?client_id=1289360993905807533&permissions=277025745984&integration_type=0&scope=applications.commands+bot">
+        <img src="./utils/chat.gif">
+    </a>
+</p>
 
 </br>
-
 
 ### *Últimas Novidades 🔥*
 
@@ -174,7 +177,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 </br>
 
 ## 📄 Licença
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 </br>
 
